@@ -29,4 +29,4 @@ java Main
 
 Autor
 
-Tworzone przez Piotr
+Tworzone przez https://github.com/piotropiotr
